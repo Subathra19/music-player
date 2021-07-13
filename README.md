@@ -1,10 +1,34 @@
 # Music Player
-* An python-based data  restaurant management system consists of a calculator, receipt box, check boxes and other features. It is built with tkinter library.
+* A python-based music player application built with tkinter library and PyGame. It have the following features:
+  * Play/Pause
+  * Previous Track
+  * Next Track
+  * Adjust Volume
+  * Load Songs
+  * Select Particular Track From The Playlist 
+  * Userfriendly Interface
+  * Working progress bar
+
+
+Shuffle All
+
+Working Progress Bar
+
+
 * Tkinter framework provides a simple way to create GUI elements using the widgets found in the Tk toolkit. Tk widgetsare used to construct buttons, labels, menus, data fields, etc.
+* PyGame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries that can be used with the Python.
 
 ## Prerequisites
 * Python 3.0
 
+### Package required
+* PyGame
+
+### Installing Package
+* Open terminal and write the following:
+    ```
+    pip3 install pygame
+    ```    
 
 ## How to Run app:
 * Clone the repository to your local machine.
