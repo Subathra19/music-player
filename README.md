@@ -9,12 +9,6 @@
   * Userfriendly Interface
   * Working progress bar
 
-
-Shuffle All
-
-Working Progress Bar
-
-
 * Tkinter framework provides a simple way to create GUI elements using the widgets found in the Tk toolkit. Tk widgetsare used to construct buttons, labels, menus, data fields, etc.
 * PyGame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries that can be used with the Python.
 
