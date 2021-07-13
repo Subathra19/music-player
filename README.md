@@ -12,11 +12,11 @@
 
 ## Sample Screen
 <p align="center">
-  <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/sample_screen.PNG">
+  <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/images/sample_screen.PNG">
 </p>
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/sample_screen_1.PNG">
+  <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/images/sample_screen_1.PNG">
 </p>
     
 ## References
