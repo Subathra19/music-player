@@ -46,7 +46,7 @@ def retrive():
                 print(path)
                 songlist.append(path)
     
-    playlist.extend(songlist)
+    playlist=songlist
     list.delete(0,END)
     enumeratesongs()
     # Update the number of songs in the tracklist label
