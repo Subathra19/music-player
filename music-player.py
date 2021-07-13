@@ -131,7 +131,7 @@ def changevol(event=None):
 window.geometry("600x400")
 window.title("Music Player")
 window.configure(background=bg_color)
-
+window.resizable(False, False)
 
 # Divide the screen into three frames
 track=LabelFrame(window,text="Song Track",font=("times new roman",15,"bold"),bg=bg_color,fg="white",bd=5,relief=GROOVE)
