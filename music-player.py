@@ -67,6 +67,7 @@ def playsong(event=None):
     paused=False
     played=True
 
+    songtrack['text']=os.path.basename(playlist[current])
     songtrack['anchor']='w'
     list.activate(current)
     list.itemconfigure(current,bg="white")
