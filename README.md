@@ -15,6 +15,9 @@
   <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/sample_screen.PNG">
 </p>
 
+<p align="center">
+  <img width="600" height="400" src="https://github.com/Subathra19/music-player/blob/main/sample_screen_1.PNG">
+</p>
     
 ## References
-[DJOamen](https://www.youtube.com/watch?v=-Bs4-Uerm_o&ab_channel=DJOamen)
+[studytonight](https://www.studytonight.com/tkinter/music-player-application-using-tkinter)
